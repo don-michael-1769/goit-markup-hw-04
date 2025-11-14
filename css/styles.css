@@ -425,9 +425,13 @@ footer{
     padding: 100px 0;
   }
 .footer-box{
+    
+}
+.footer.container{
     display: flex;
     align-items: baseline;
 }
+
 .footer-content{
     margin-right: 120px;
 }
